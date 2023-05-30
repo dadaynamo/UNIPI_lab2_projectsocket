@@ -13,17 +13,17 @@ La gestione dei file name e la visita delle varie path è gestita tramite coda u
 Per quanto riguarda la compilazione e l'esecuzione automatica vi è un file makefile specifico.
 Per compilare digitare sulla shell:
 ```
->$ make
+$ make
 ```
 
 Per eseguire il programma usando un thread e selezionando la visita a partire dalla path corrente:
 ```
->$ make test1
+$ make test1
 ```
 
 Per eseguire il programma usando 5 thread e selezionando la visita a partire dalla path corrente:
 ```
->$ make test2
+$ make test2
 ```
 
 
